@@ -1,6 +1,6 @@
 # Adoption Eligibility — Testing Starter
 
-Homework project for **T1 — Unit Test Quality**.
+Homework project for **Advanced Unit Tests** module.
 
 ## Domain
 
